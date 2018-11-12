@@ -101,7 +101,6 @@ button {
   cursor: pointer;
   outline: none;
   border: none;
-  transition: 0.5s;
 }
 
 button:hover {
